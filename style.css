@@ -1,0 +1,64 @@
+/*-----------------------------------------------------
+	style.css(for COOLWEB01)
+	
+	copyright http://www.xtrec.com/
+	Author:HISABO
+------------------------------------------------------*/
+
+@import "common.css";
+
+/*---------------------------------------
+	LINK
+---------------------------------------*/
+a {
+	color:#5c5c5c;
+}
+a:hover {
+	color:#ccc;
+}
+
+/*---------------------------------------
+	BODY
+---------------------------------------*/
+body {
+	background-color:#fff;
+	color:#5c5c5c;
+}
+
+/*---------------------------------------
+	HEADER
+---------------------------------------*/
+thead td {
+	border-bottom:#5c5c5c 2px solid;
+}
+/*---------------------------------------
+	SIDE
+---------------------------------------*/
+tbody th {
+	border-right:#5c5c5c 2px solid;
+}
+
+/*---------------------------------------
+	FOOTER
+---------------------------------------*/
+tfoot td {
+	border-top:#5c5c5c 2px solid;
+}
+/*---------------------------------------
+	Mailform
+---------------------------------------*/
+#mailForm {
+	border:#5c5c5c 1px solid;
+}
+#mailForm h1 {
+	border-bottom: #5c5c5c 1px solid;
+}
+#mailForm p {
+	border-top:#5c5c5c 1px solid;
+}
+#mailForm textarea {
+    border: #5c5c5c 1px dotted;
+}
+.ipt {
+    border: #5c5c5c 1px dotted;
+}
